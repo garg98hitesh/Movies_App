@@ -1,0 +1,1 @@
+WE faced a problem of multiple routing in route i.e, (Part-3 43:00)when we typed '/' then it was perfectly running the movies page but when we typed '/Favourite' then it showed both the movies and favourite page because the initial / reprsenting the movies page was also present in the favourite page
